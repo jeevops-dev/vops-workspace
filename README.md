@@ -1,51 +1,22 @@
-# VOps Workspace
-This project provides a customizable workspace with multiple web apps in iframes.
+# VOps-Workspace
+
+Welcome to VOps-Workspace! This project provides a simple web-based workspace with multiple iframes for various tools and applications.
 
 ## Features
-- Side panel for selecting web apps
+- Side panel with links to different tools.
+- Docker for controlling iframes (close, fullscreen, and move).
+- Multi-tasking support (optional).
 
-- Iframes to display web apps
+## Getting Started
 
-- Docker with buttons for closing, fullscreen, move
+### Prerequisites
+- Web browser with JavaScript support.
 
-- Draggable docker
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jeevops-dev/vops-workspace.git
 
-- Fullscreen mode
-
-- Option to enable multitasking for apps
-
-## Usage
-The side panel contains clickable links to open different web apps in the iframe container.
-
-The docker at the bottom right provides the following functions:
-
-
-- Close button: Closes the iframe
-
-- Fullscreen button: Toggle fullscreen mode for the iframe
-
-- Move button: Click and drag to move the docker around
-
-Drag the docker to reposition it.
-
-Double click the fullscreen button to make the iframe fill the entire viewport.
-
-Configuration
-The `appConfig` object contains a setting for `enableMultiTasking` which can be set to `true` to enable multitasking behavior for the web apps.
-
-The `iframeData` array contains the name and URL for each web app. Update this array to customize the apps available in the workspace.
-
-# Customization
-
-- Update the iframeData array to add/remove apps
-
-- Update the logo and title in the header
-
-- Customize the side panel and docker styling
-
-- Add logic in changeIframeSrc to enable multitasking for specific apps
-
-- Call additional functions from the docker buttons
 
 # Credits
 
