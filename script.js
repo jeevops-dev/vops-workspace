@@ -8,6 +8,7 @@ const appConfig = {
     { name: 'SculptGL', url: 'https://stephaneginier.com/sculptgl/' },
     { name: 'Sculptfab', url: 'https://labs.sketchfab.com/sculptfab/' },
     { name: 'Photopea', url: 'https://www.photopea.com/' },
+    { name: 'graphite.rs', url: 'https://editor.graphite.rs/' },
     { name: 'A-Frame', url: 'https://aframe.io/' },
     { name: 'ARMORY3D', url: 'https://armory3d.github.io/armory_examples_browser/#templates-third_person/' },
     { name: 'BABYLON.JS', url: 'https://playground.babylonjs.com/' },
