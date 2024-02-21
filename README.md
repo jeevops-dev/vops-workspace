@@ -17,7 +17,6 @@ Welcome to VOps-Workspace! This project provides a simple web-based workspace wi
    ```bash
    git clone https://github.com/jeevops-dev/vops-workspace.git
 
-
 # Credits
 
 ## Uses the following open source libraries and web apps:
