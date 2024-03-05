@@ -4,7 +4,6 @@ Welcome to VOps-Workspace! This project provides a simple web-based workspace wi
 
 ## Features
 - Side panel with links to different tools.
-- Docker for controlling iframes (close, fullscreen, and move).
 - Multi-tasking support (optional).
 
 ## Getting Started
