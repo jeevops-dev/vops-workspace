@@ -13,6 +13,7 @@ const appConfig = {
     { name: 'ARMORY3D', url: 'https://armory3d.github.io/armory_examples_browser/#templates-third_person/' },
     { name: 'BABYLON.JS', url: 'https://playground.babylonjs.com/' },
     { name: 'BevyEngine', url: 'https://bevyengine.org/examples/' },
+    { name: 'GodotEngine', url: 'https://editor.godotengine.org/' },
     // Add more names and URLs as needed
   ];
   
